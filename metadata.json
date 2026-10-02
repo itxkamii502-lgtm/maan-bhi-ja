@@ -1,0 +1,6 @@
+{
+  "name": "Maan Jao Na - Romantic Apology & Proposal",
+  "description": "A heartfelt, personalized interactive apology and date proposal web experience to win back your special someone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
